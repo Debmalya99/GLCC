@@ -3,7 +3,7 @@ OPENGL COMMON CLASSES
 This is a library (sort of) containing the classes and files for most commonly used opengl functions.
 It contains a :
 
-Mesh Loading Class
+Mesh Loading Class (Using Assimp)
 A Shader Class
 A Basic FPS Camera
 GLAD OpenGL Loader
