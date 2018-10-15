@@ -8,6 +8,6 @@ A Shader Class
 A Basic FPS Camera
 GLAD OpenGL Loader
 A Folder containing the most commonly used shaders
-The OpenGL Mathematics Library (GLM) (Copied)
-GLFW (Copied)
+The OpenGL Mathematics Library (GLM) 0.9.9.2 (Copied, I have just installed them here. All credits belong to the original authors)
+GLFW 3.2.1 (Copied, I have just installed them here.All credits belong to the original authors)
 
